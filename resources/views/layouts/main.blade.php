@@ -7,7 +7,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>@yield('title')</title>
-    
+
     <link rel="shortcut icon" href="{{ asset('images/circuito-logo-with-text.png') }}" type="image/png">
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -18,21 +18,33 @@
 </head>
 
 <body class="font-sans antialiased">
-    <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100 dark:bg-gray-900">
-        <!-- Page Heading -->
+    {{-- <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100 dark:bg-gray-900"> --}}
+    <div class="">
 
+
+
+        <!-- Page Heading -->
         @include('components.navbar')
+
+
 
 
         @yield('header')
         <!-- Page Content -->
-        <div
+        {{-- <div
             class="w-full sm:max-w-md mt-6 px-6 py-4 bg-white dark:bg-gray-800 shadow-md overflow-hidden sm:rounded-lg">
+        </div> --}}
+
+        <div class="">
             @yield('content')
+
         </div>
 
+        @yield('footer')
+
     </div>
+
+    {{-- </div> --}}
 </body>
 
 </html>
-

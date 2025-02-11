@@ -3,3 +3,7 @@
 A Universidade Estadual de Montes Claros (Unimontes) contará com um conjunto inovador de laboratórios dedicados à pesquisa, inovação e soluções tecnológicas, que serão instalados dentro de contêineres, abertos à comunidade acadêmica, no campus-sede. Começa a ser implantado neste mês de setembro o Circuito de Conhecimentos, financiado com recursos da Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig), com investimentos totais previstos de R$ 2,177 milhões.
 
 A estrutura constitui um centro integrado de tecnologia, inovação e divulgação científica, com o objetivo de contemplar todas as áreas do conhecimento e promover o desenvolvimento de projetos inovadores e soluções tecnológicas para diferentes setores. Além de fomentar a divulgação científica, a iniciativa visa criar um ambiente propício para a troca de saberes e a inovação tecnológica.
+
+
+
+//Criar duas categorias
