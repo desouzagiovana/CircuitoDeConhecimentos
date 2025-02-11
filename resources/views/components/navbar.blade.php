@@ -7,12 +7,12 @@
 
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <a href="https://flowbite.com/" class="flex items-center space-x-3">
-                    <img src="{{ asset('images/circuito-logo-with-text.png') }}" class="h-16 object-contain"
+                    <img src="{{ asset('images/circuit_no-text.png') }}" class="w-32 object-contain"
                         alt="Logo">
                 </a>
                 <div class="flex md:order-2 space-x-3">
                     <button type="button"
-                        class="text-white bg-circuit_green hover:bg-lime-600 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2">
+                        class=" text-white bg-circuit_green hover:bg-lime-600 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2">
                         Entre em contato
                     </button>
                     <button data-collapse-toggle="navbar-sticky" type="button"
