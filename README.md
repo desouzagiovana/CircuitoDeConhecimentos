@@ -1,9 +1,63 @@
-## Circuito de Conhecimentos - Unimontes 
+# Circuito de Conhecimentos
 
-A Universidade Estadual de Montes Claros (Unimontes) contará com um conjunto inovador de laboratórios dedicados à pesquisa, inovação e soluções tecnológicas, que serão instalados dentro de contêineres, abertos à comunidade acadêmica, no campus-sede. Começa a ser implantado neste mês de setembro o Circuito de Conhecimentos, financiado com recursos da Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig), com investimentos totais previstos de R$ 2,177 milhões.
+Sistema web desenvolvido para gerenciamento do **Circuito de Conhecimentos** da `Universidade Estadual de Montes Claros`, incluindo o site institucional e uma área administrativa completa para gestão.
 
-A estrutura constitui um centro integrado de tecnologia, inovação e divulgação científica, com o objetivo de contemplar todas as áreas do conhecimento e promover o desenvolvimento de projetos inovadores e soluções tecnológicas para diferentes setores. Além de fomentar a divulgação científica, a iniciativa visa criar um ambiente propício para a troca de saberes e a inovação tecnológica.
+<p>
+  <a href="https://circuito.unimontes.br/" target="_blank">
+    <strong>🌐 Acessar Sistema</strong>
+  </a>
+</p>
 
+---
 
+## 🎓 Sobre o Projeto
 
-//Criar duas categorias
+O **Circuito de Conhecimentos** é um ambiente físico da universidade composto por containers/laboratórios equipados com equipamentos tecnológicos e infraestrutura para realização de:
+
+- Atividades acadêmicas  
+- Eventos científicos  
+- Projetos de extensão  
+- Aulas e treinamentos  
+
+Este sistema foi desenvolvido para:
+
+- Gerenciar o site institucional do projeto  
+- Administrar conteúdos das páginas  
+- Organizar informações  
+- Exibir publicações e atividades realizadas  
+
+---
+
+## 👩‍💻 Área Administrativa
+
+O sistema possui uma **área exclusiva para administradores**, onde é possível:
+
+- Editar o conteúdo das páginas
+- Criar novas páginas
+- Adicionar mídias (imagens, arquivos)
+- Cadastrar e gerenciar colaboradores
+- Criar e gerenciar usuários administrativos
+- Visualizar publicações por container
+- Visualizar publicações por colaborador
+- Adicionar atividades realizadas em cada laboratório
+- Gerenciar infraestrutura disponível em cada container
+
+---
+
+## 🏢 Containers (Laboratórios)
+
+Os **containers** representam a estrutura física do Circuito de Conhecimentos.
+
+Cada container possui informações como:
+
+- Nome do laboratório
+- Descrição institucional
+- Infraestrutura disponível
+- Equipamentos disponíveis
+- Atividades já realizadas
+- Eventos acadêmicos associados
+
+Esses espaços podem ser utilizados pela comunidade acadêmica para diferentes finalidades, conforme disponibilidade e agendamento.
+
+---
+
